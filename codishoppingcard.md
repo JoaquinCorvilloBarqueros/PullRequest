@@ -1,0 +1,1 @@
+GitLab es una plataforma DevOps que ofrece repositorios Git remotos, CI/CD integrado, gestión de issues y revisiones de código.
